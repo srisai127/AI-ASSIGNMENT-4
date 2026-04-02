@@ -1,4 +1,3 @@
-# Telangana Map Coloring using CSP + MRV + Graph Visualization
 
 import networkx as nx
 import matplotlib.pyplot as plt
